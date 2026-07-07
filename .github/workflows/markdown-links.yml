@@ -19,6 +19,7 @@ jobs:
           args: >-
             --verbose
             --no-progress
+            --offline
             --include-fragments
             "./**/*.md"
         env:
