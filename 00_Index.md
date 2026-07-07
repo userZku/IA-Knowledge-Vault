@@ -44,10 +44,12 @@ Organisation des connaissances par catégories transversales.
 ## 06_Backend_API
 - [api integration](06_Backend_API/api-integration.md)
 - [fastapi](06_Backend_API/fastapi.md)
+- [fastapi auth jwt](06_Backend_API/fastapi-auth-jwt.md)
 - [fastapi pydantic ml](06_Backend_API/fastapi-pydantic-ml.md)
 
 ## 07_Data_Engineering
 - [alembic migration](07_Data_Engineering/alembic-migration.md)
+- [duckdb](07_Data_Engineering/duckdb.md)
 - [grille decision stockage](07_Data_Engineering/grille-decision-stockage.md)
 - [ingestion idempotente](07_Data_Engineering/ingestion-idempotente.md)
 - [parquet pyarrow](07_Data_Engineering/parquet-pyarrow.md)
@@ -56,6 +58,7 @@ Organisation des connaissances par catégories transversales.
 ## 08_MLOps_Qualite_Tests
 - [loguru](08_MLOps_Qualite_Tests/loguru.md)
 - [loguru middleware](08_MLOps_Qualite_Tests/loguru-middleware.md)
+- [mlflow tracking registry](08_MLOps_Qualite_Tests/mlflow-tracking-registry.md)
 - [persistance modele joblib](08_MLOps_Qualite_Tests/persistance-modele-joblib.md)
 - [pytest api](08_MLOps_Qualite_Tests/pytest-api.md)
 - [pytest testclient](08_MLOps_Qualite_Tests/pytest-testclient.md)
@@ -64,6 +67,7 @@ Organisation des connaissances par catégories transversales.
 - [versionning modele](08_MLOps_Qualite_Tests/versionning-modele.md)
 
 ## 09_Apps_Visualisation
+- [gradio](09_Apps_Visualisation/gradio.md)
 - [streamlit](09_Apps_Visualisation/streamlit.md)
 
 ## 10_Architecture_Cadrage_Produit
